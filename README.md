@@ -1,6 +1,6 @@
 ### Hi
 - I’m interested in physics, computer, and a bit of math.
-- I’m currently learning graphics programming.
+- I’m currently learning graphics programming and Android.
 
 ### Github Statistics
 <p align="left">
